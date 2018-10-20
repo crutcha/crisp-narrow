@@ -128,7 +128,7 @@ figcaption {
 /* Every post, on every page, gets this style on its <article> tag */
 .post {
     width: 80%;
-    max-width: 710px;
+    #max-width: 710px;
     padding-bottom: 0rem;
     border-bottom: #EBF2F6 1px solid;
     word-wrap: break-word;
